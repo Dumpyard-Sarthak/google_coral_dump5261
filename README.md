@@ -1,0 +1,14 @@
+# coral-user 12 SQ3A.220605.009.A1 8643238 release-keys
+- manufacturer: 
+- platform: msmnile
+- codename: coral
+- flavor: coral-user
+- release: 12
+- id: SQ3A.220605.009.A1
+- incremental: 8643238
+- tags: release-keys
+- fingerprint: google/coral/coral:12/SQ3A.220605.009.A1/8643238:user/release-keys
+- is_ab: true
+- brand: google
+- branch: coral-user-12-SQ3A.220605.009.A1-8643238-release-keys
+- repo: google_coral_dump5261
